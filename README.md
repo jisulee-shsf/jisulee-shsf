@@ -1,5 +1,5 @@
-- Hi there! 🙌🏻
-- Welcome to my universe! ✨
+- 방문해 주셔서 감사합니다! 🙌🏻
+- 데이터에 기반한 IT 스킬 쌓는 것을 좋아합니다! 👩🏻‍💻
 
 <!--
 **jisulee-shsf/jisulee-shsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
