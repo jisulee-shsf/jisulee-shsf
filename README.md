@@ -1,4 +1,5 @@
-- Nothing happens until something moves. ✨
+- Hi there! 🙌🏻
+- Welcome to my universe! ✨
 
 <!--
 **jisulee-shsf/jisulee-shsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
